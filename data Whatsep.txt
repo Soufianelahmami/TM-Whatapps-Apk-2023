@@ -41,11 +41,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Enhanced Privacy Settings: TM WhatsApp provides users with advanced privacy features, allowing them to control their online presence and limit access to their personal information. Users can hide their online status, disable typing and read receipts, and even restrict others from viewing their profile pictures.","photo2":"https://iili.io/HU7C31R.jpg"},
+  {"desc3":"Customization Options: TM WhatsApp APK offers extensive customization options to personalize the user interface. Users can choose from a wide range of themes, fonts, and colors to create a unique messaging experience.","photo3":"https://iili.io/HU7CFgp.webp"},
+  {"desc4":"Extended Media Sharing: TM WhatsApp allows users to send larger files, such as videos, audio files, and documents, which are limited in size in the original WhatsApp application. This feature is particularly useful for users who frequently share media files.","photo4":"https://iili.io/HU7nZAP.png"},
+  {"desc5":"Anti-Ban and Anti-Delete Messages: One notable feature of TM WhatsApp is the built-in anti-ban feature, which reduces the risk of users being banned from the platform. Additionally, the application allows users to retrieve deleted messages, which can be a valuable asset in case of accidental deletions.","photo5":"https://iili.io/HU7ntN1.png"},
+  {"descd":"Enhanced Security Features: TM WhatsApp incorporates additional security measures to safeguard user privacy. It offers the option to lock the application with a password or fingerprint, preventing unauthorized access to conversations.","photod":"https://iili.io/HU7nQHB.jpg"}
    ]
  
 }
